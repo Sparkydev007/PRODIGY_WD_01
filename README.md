@@ -36,6 +36,7 @@ This is a fully responsive and animated landing page built using **HTML**, **CSS
 ---
 
 ## 📁 Folder Structure
+
 PRODIGY_WD_01/
 ├── index.html
 ├── style.css
@@ -43,3 +44,27 @@ PRODIGY_WD_01/
 └── images/
 └── hero.jpg
 
+
+---
+
+## 🔗 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Site-Click%20to%20View-blue?style=for-the-badge)](https://sparkydev007.github.io/PRODIGY_WD_01/)
+
+---
+
+## 👨‍💻 Developed By
+
+**Prathmesh Bunde**  
+🔗 [LinkedIn](https://www.linkedin.com/in/prathmesh-bunde-97771b209/)  
+💻 [GitHub](https://github.com/Sparkydev007)
+
+---
+
+## 🙏 Acknowledgement
+
+Thanks to **Prodigy InfoTech** for inspiring this professional-grade front-end project.
+
+---
+
+> 📢 Feel free to star ⭐, fork 🍴, or clone 🔁 this project. Contributions welcome!
