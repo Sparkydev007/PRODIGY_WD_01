@@ -36,4 +36,10 @@ This is a fully responsive and animated landing page built using **HTML**, **CSS
 ---
 
 ## 📁 Folder Structure
+PRODIGY_WD_01/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+└── hero.jpg
 
